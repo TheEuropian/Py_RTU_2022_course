@@ -1,0 +1,24 @@
+Sale Date;Number of Items;Ship State;Ship Country;Currency;Order Value;Coupon Code;Coupon Details;Shipping;Order Total;Order Net
+12/29/21;1;FL;United States;USD;39.00;;;7.00;48.76;37.59
+12/24/21;1;NSW;Australia;USD;55.00;;;7.00;68.20;50.74
+12/24/21;1;SK;Canada;USD;46.00;;;7.00;53.00;43.51
+12/23/21;1;FL;United States;USD;47.00;;;7.00;57.51;44.28
+12/22/21;1;FL;United States;USD;47.00;;;7.00;57.78;44.21
+12/22/21;1;TX;United States;USD;47.00;ONSALE;% off;7.00;48.28;36.41
+12/22/21;1;MO;United States;USD;47.00;;;7.00;54.00;44.43
+12/17/21;1;NH;United States;USD;55.00;;;7.00;62.00;51.33
+12/16/21;1;;France;USD;39.00;;;7.00;46.00;37.69
+12.12.2021;1;AZ;United States;USD;55.00;;;19.00;78.46;60.76
+12.11.2021;1;FL;United States;USD;47.00;ONSALE;% off;19.00;60.56;46.37
+12.10.2021;1;;The Netherlands;USD;61.00;;;22.00;83.00;68.34
+12.10.2021;1;IL;United States;USD;69.00;;;19.00;99.70;75.51
+12.09.2021;1;PA;United States;USD;39.00;ONSALE;% off;15.00;48.98;37.91
+12.09.2021;1;UT;United States;USD;47.00;;;15.00;65.17;50.97
+12.09.2021;1;TO;Italy;USD;55.00;;;15.00;70.00;57.58
+12.08.2021;1;;Germany;USD;47.00;;;15.00;62.00;51.10
+12.06.2021;1;NSW;Australia;USD;47.00;;;15.00;68.20;50.94
+12.04.2021;1;FL;United States;USD;69.00;;;15.00;90.30;68.98
+12.04.2021;1;;Finland;USD;39.00;ONSALE;% off;15.00;46.20;37.92
+12.04.2021;1;FL;United States;USD;39.00;;;15.00;57.78;44.24
+12.04.2021;1;WI;United States;USD;55.00;;;15.00;73.85;57.47
+12.01.2021;1;MT;United States;USD;47.00;;;7.00;54.00;44.22

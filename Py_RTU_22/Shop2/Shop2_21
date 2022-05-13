@@ -1,0 +1,51 @@
+Sale Date,Number of Items,Ship State,Ship Country,Currency,Order Value,Shipping,Order Total,Order Net
+12/31/21,1,VA,United States,USD,18.00,5.00,23.95,18.58
+12/28/21,1,Asturias,Spain,USD,35.00,5.00,40.00,32.81
+12/27/21,1,TX,United States,USD,37.00,0.00,40.05,30.18
+12/27/21,1,TX,United States,USD,48.00,0.00,51.96,39.23
+12/25/21,1,OK,United States,USD,37.00,0.00,40.30,30.17
+12/24/21,1,,Sweden,USD,73.00,5.00,78.00,64.18
+12/23/21,1,,United Kingdom,USD,34.90,5.00,47.88,32.37
+12/21/21,1,NC,United States,USD,59.00,0.00,63.13,48.48
+12/21/21,1,WI,United States,USD,37.00,0.00,39.04,30.33
+12/20/21,1,CA,United States,USD,38.00,0.00,40.95,31.11
+12/19/21,1,,United Kingdom,USD,35.00,5.00,48.00,32.73
+12/19/21,1,,France,USD,49.00,5.00,54.00,44.67
+12/19/21,1,,The Netherlands,USD,52.00,5.00,57.00,47.16
+12/18/21,1,TX,United States,USD,73.00,0.00,84.44,64.43
+12/17/21,1,NC,United States,USD,34.90,5.00,42.59,32.83
+12/17/21,1,OR,United States,USD,35.00,0.00,35.00,28.85
+12/15/21,1,FL,United States,USD,37.00,0.00,39.59,30.37
+12/14/21,1,TX,United States,USD,34.90,5.00,42.39,32.76
+12/13/21,2,KY,United States,USD,85.00,0.00,90.10,70.04
+12/13/21,1,NJ,United States,USD,34.90,5.00,42.54,32.70
+12/13/21,1,KY,United States,USD,34.90,5.00,42.29,32.74
+12/13/21,1,MADRID,Spain,USD,59.00,5.00,64.00,52.86
+12/12/21,1,VIC,Australia,USD,37.00,5.00,46.20,34.31
+12/12/21,1,AR,United States,USD,37.00,0.00,40.52,30.18
+12/12/21,1,,Germany,USD,38.00,5.00,43.00,35.27
+12/11/21,1,TX,United States,USD,62.00,0.00,67.12,50.81
+12/11/21,1,KY,United States,USD,34.90,5.00,42.29,32.61
+12/10/21,1,,The Netherlands,USD,49.00,5.00,54.00,44.37
+12/10/21,1,VA,United States,USD,49.00,0.00,51.94,40.12
+12/09/21,1,MI,United States,USD,38.00,0.00,40.28,31.10
+12/09/21,1,,France,USD,37.00,5.00,42.00,34.51
+12/09/21,1,NC,United States,USD,34.90,5.00,42.59,32.71
+12/09/21,1,NM,United States,USD,37.00,0.00,39.89,30.24
+12/08/21,1,PA,United States,USD,49.00,0.00,51.94,40.02
+12/08/21,1,,Switzerland,USD,46.00,5.00,51.00,41.78
+12/08/21,1,,France,USD,38.00,5.00,43.00,35.37
+12/07/21,1,AZ,United States,USD,49.00,0.00,52.23,40.29
+12/07/21,1,,Belgium,USD,34.90,5.00,39.90,32.88
+12/05/21,1,NJ,United States,USD,34.90,5.00,42.54,32.61
+12/04/21,1,CA,United States,USD,34.90,5.00,43.22,32.59
+12/03/21,1,PA,United States,USD,49.00,0.00,51.94,40.14
+12/03/21,1,IL,United States,USD,38.00,0.00,41.42,31.03
+12/03/21,1,ON,Canada,USD,49.00,5.00,54.00,44.51
+12/02/21,1,TX,United States,USD,49.00,0.00,52.06,40.17
+12/01/21,1,,Germany,USD,37.00,5.00,34.60,28.32
+12/01/21,1,,Germany,USD,34.90,5.00,32.92,26.93
+12/01/21,1,TN,United States,USD,49.00,0.00,43.02,31.96
+12/01/21,1,,France,USD,34.90,5.00,32.92,26.90
+12/01/21,1,,Germany,USD,59.00,5.00,52.20,42.85
+12/01/21,1,OH,United States,USD,63.00,0.00,54.05,41.18

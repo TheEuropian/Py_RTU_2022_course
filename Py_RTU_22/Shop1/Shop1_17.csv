@@ -1,0 +1,158 @@
+Sale Date;Number of Items;Ship State;Ship Country;Currency;Order Value;Coupon Code;Coupon Details;Discount Amount;Shipping;Order Total;Order Net
+12/30/17;1;NJ;United States;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;28.66
+12/30/17;1;CA;United States;USD;49.00;SALE15;% off;j?l.35;4.00;45.65;35.30
+12/29/17;1;MD;United States;USD;59.00;SALE15;% off;aug.85;0.00;50.15;38.81
+12/27/17;1;WA;United States;USD;59.00;SALE15;% off;aug.85;4.00;54.15;42.30
+12/27/17;1;OR;United States;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;28.98
+12/26/17;1;SC;United States;USD;35.00;SALE15;% off;maijs.25;4.00;33.75;26.34
+12/25/17;1;Noorderwijk;Belgium;USD;49.00;SALE15;% off;j?l.35;4.00;45.65;45.65
+12/25/17;1;GA;United States;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;28.98
+12/24/17;1;NewSouthWales;Australia;USD;29.50;;;0.00;4.00;33.50;33.50
+12/24/17;1;OK;United States;USD;29.50;;;0.00;4.00;33.50;33.50
+12/23/17;2;CO;United States;USD;98.00;;;0.00;4.00;102.00;102.00
+12/22/17;1;FL;United States;USD;19.50;;;0.00;4.00;23.50;18.27
+12/21/17;1;HI;United States;USD;19.50;;;0.00;4.00;23.50;23.50
+12/21/17;1;TX;United States;USD;49.00;SALE15;% off;j?l.35;0.00;41.65;32.55
+12/20/17;1;MS;United States;USD;49.00;SALE15;% off;j?l.35;4.00;45.65;35.66
+12/19/17;1;FL;United States;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;29.j?n
+12/19/17;1;CO;United States;USD;49.00;SALE15;% off;j?l.35;4.00;45.65;35.78
+12/19/17;1;CA;United States;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;29.j?l
+12/19/17;1;;Israel;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;37.15
+12/19/17;1;WA;United States;USD;59.00;SALE15;% off;aug.85;4.00;54.15;42.49
+12/19/17;1;CT;United States;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;29.okt
+12/19/17;1;NY;United States;USD;19.50;;;0.00;4.00;23.50;18.32
+12/19/17;1;FL;United States;USD;39.00;SALE15;% off;maijs.85;4.00;37.15;29.14
+12/19/17;1;Denmark;Denmark;USD;39.00;;;0.00;4.00;43.00;33.72
+12/18/17;1;PA;United States;USD;49.00;;;0.00;4.00;53.00;41.81
+12/18/17;1;FL;United States;USD;39.00;SALE10;% off;marts.90;4.00;39.10;30.76
+12/18/17;1;NJ;United States;USD;39.00;SALE10;% off;marts.90;4.00;44.10;44.10
+12/18/17;1;MA;United States;USD;49.00;SALE10;% off;apr.90;4.00;48.10;37.87
+12/17/17;1;FL;United States;USD;39.00;SALE10;% off;marts.90;4.00;39.10;30.83
+12/17/17;1;VA;United States;USD;29.50;;;0.00;4.00;33.50;26.37
+12/17/17;1;;France;USD;39.00;SALE10;% off;marts.90;4.00;39.10;30.85
+12/17/17;1;IA;United States;USD;39.00;SALE10;% off;marts.90;4.00;39.10;30.83
+12/17/17;1;TX;United States;USD;49.00;;;0.00;4.00;53.00;41.92
+12/16/17;1;FL;United States;USD;19.50;;;0.00;4.00;23.50;23.50
+12/16/17;1;IN;United States;USD;39.00;;;0.00;4.00;43.00;43.00
+12/16/17;1;Cheshire;United Kingdom;USD;49.00;;;0.00;4.00;53.00;53.00
+12/16/17;1;FL;United States;USD;39.00;;;0.00;4.00;43.00;33.93
+12/16/17;1;KY;United States;USD;39.00;;;0.00;4.00;43.00;33.93
+12/16/17;1;CA;United States;USD;39.00;;;0.00;4.00;43.00;33.93
+12/15/17;1;IN;United States;USD;19.50;;;0.00;4.00;23.50;18.41
+12/15/17;1;TN;United States;USD;39.00;;;0.00;4.00;43.00;43.00
+12/15/17;1;CA;United States;USD;34.00;OFFER1;% off;marts.40;4.00;34.60;27.25
+12/15/17;1;PA;United States;USD;49.00;OFFER1;% off;apr.90;4.00;48.10;38.00
+12/15/17;1;MN;United States;USD;49.00;OFFER1;% off;apr.90;4.00;48.10;37.98
+12/15/17;1;CA;United States;USD;59.00;OFFER1;% off;maijs.90;4.00;57.10;45.14
+12/15/17;1;TX;United States;USD;49.00;OFFER1;% off;apr.90;4.00;48.10;37.98
+12/14/17;1;KS;United States;USD;67.00;OFFER1;% off;j?n.70;4.00;64.30;50.76
+12/14/17;1;VA;United States;USD;49.00;OFFER1;% off;apr.90;4.00;48.10;37.90
+12/14/17;1;NY;United States;USD;34.00;SALEFOR14;% off;marts.40;4.00;34.60;27.19
+12/14/17;1;HI;United States;USD;39.00;SALEFOR14;% off;marts.90;4.00;39.10;30.78
+12/14/17;1;;Switzerland;USD;19.50;SALEFOR14;% off;janv.95;0.00;17.55;13.58
+12/14/17;1;;France;USD;39.00;SALEFOR14;% off;marts.90;4.00;39.10;39.10
+12/14/17;1;AR;United States;USD;39.00;SALEFOR14;% off;marts.90;4.00;39.10;30.65
+12/13/17;1;TX;United States;USD;39.00;SALEFOR14;% off;marts.90;4.00;39.10;30.60
+12/13/17;1;FL;United States;USD;39.00;SALEFOR14;% off;marts.90;4.00;39.10;30.65
+12/13/17;1;CT;United States;USD;49.00;SALEFOR14;% off;apr.90;4.00;48.10;37.77
+12/13/17;1;SC;United States;USD;49.00;SALEFOR14;% off;apr.90;4.00;48.10;37.77
+12/13/17;1;PA;United States;USD;49.00;SALE888;% off;apr.90;4.00;48.10;37.78
+12/13/17;1;GA;United States;USD;45.00;SALE888;% off;apr.50;4.00;44.50;35.12
+12/13/17;1;MI;Italy;USD;29.50;;;0.00;4.00;33.50;26.37
+12/13/17;1;;France;USD;39.00;SALE888;% off;marts.90;4.00;39.10;30.87
+12.12.2017;1;TX;United States;USD;49.00;SALE888;% off;apr.90;4.00;48.10;37.99
+12.12.2017;1;MS;United States;USD;49.00;SALE888;% off;apr.90;4.00;48.10;37.99
+12.12.2017;1;ID;United States;USD;49.00;SALE888;% off;apr.90;4.00;48.10;37.99
+12.12.2017;1;KY;United States;USD;39.00;SALE888;% off;marts.90;4.00;39.10;30.85
+12.12.2017;1;Kassel/Hessen;Belgium;USD;39.00;SALE888;% off;marts.90;4.00;39.10;30.87
+12.12.2017;1;AZ;United States;USD;39.00;SALE888;% off;marts.90;4.00;39.10;30.87
+12.12.2017;1;SC;United States;USD;49.00;SALE888;% off;apr.90;4.00;48.10;38.04
+12.12.2017;1;MS;United States;USD;39.00;SALEFORALL;% off;marts.90;4.00;39.10;30.92
+12.12.2017;1;TX;United States;USD;39.00;;;0.00;4.00;43.00;33.88
+12.11.2017;1;CO;United States;USD;67.00;;;0.00;4.00;71.00;71.00
+12.11.2017;1;ND;United States;USD;39.00;;;0.00;4.00;43.00;33.90
+12.11.2017;1;MT;United States;USD;49.00;;;0.00;4.00;53.00;41.82
+12.11.2017;1;MN;United States;USD;39.00;;;0.00;4.00;43.00;33.89
+12.11.2017;1;PA;United States;USD;39.00;;;0.00;4.00;43.00;33.89
+12.11.2017;1;CO;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;44.10;34.76
+12.11.2017;1;MO;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;39.10
+12.11.2017;1;IN;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.74
+12.11.2017;1;GA;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.73
+12.11.2017;1;CA;United States;USD;19.50;DISCOUNT10;% off;janv.95;0.00;17.55;13.65
+12.10.2017;1;NC;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.78
+12.10.2017;1;HI;United States;USD;67.00;DISCOUNT10;% off;j?n.70;4.00;64.30;50.84
+12.10.2017;1;NJ;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.79
+12.10.2017;1;Ile de France;France;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.80
+12.10.2017;1;FL;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.80
+12.10.2017;1;;France;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.80
+12.10.2017;1;PA;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.80
+12.10.2017;1;PA;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.80
+12.10.2017;1;Russia;Russia;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.80
+12.10.2017;1;;Germany;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.78
+12.10.2017;1;CA;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;39.10
+12.10.2017;1;NY;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.78
+12.09.2017;1;MD;United States;USD;49.00;DISCOUNT10;% off;apr.90;4.00;48.10;37.94
+12.09.2017;1;VA;United States;USD;49.00;DISCOUNT10;% off;apr.90;4.00;53.10;41.91
+12.09.2017;1;AR;United States;USD;59.00;DISCOUNT10;% off;maijs.90;4.00;57.10;57.10
+12.09.2017;1;CA;United States;USD;59.00;DISCOUNT10;% off;maijs.90;4.00;57.10;45.09
+12.09.2017;1;CA;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.78
+12.09.2017;1;OH;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.78
+12.09.2017;1;AO;Italy;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.81
+12.09.2017;1;CA;United States;USD;34.00;DISCOUNT10;% off;marts.40;4.00;34.60;27.23
+12.08.2017;1;NY;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.81
+12.08.2017;1;TX;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;39.10
+12.08.2017;1;AZ;United States;USD;39.00;DISCOUNT10;% off;marts.90;4.00;39.10;30.81
+12.08.2017;1;FL;United States;USD;49.00;DISCOUNT10;% off;apr.90;4.00;48.10;48.10
+12.08.2017;1;NV;United States;USD;19.50;DISCOUNT15;% off;febr.93;0.00;16.57;dec.89
+12.08.2017;1;VA;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.28
+12.08.2017;1;OH;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.26
+12.08.2017;1;FL;United States;USD;19.50;DISCOUNT15;% off;febr.93;4.00;20.57;16.okt
+12.08.2017;1;Wiltshire;United Kingdom;USD;49.00;;;0.00;0.00;49.00;38.73
+12.08.2017;1;AK;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.27
+12.07.2017;1;UT;United States;USD;19.50;DISCOUNT15;% off;febr.93;4.00;20.57;16.j?l
+12.07.2017;1;TX;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.26
+12.07.2017;1;NC;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.24
+12.07.2017;1;HI;United States;USD;49.00;DISCOUNT15;% off;j?l.35;4.00;45.65;35.92
+12.07.2017;2;KORSCHENBROICH (GLEHN);Germany;USD;58.50;DISCOUNT15;% off;maijs.85;4.00;56.65;56.65
+12.07.2017;1;FL;United States;USD;67.00;DISCOUNT15;% off;10.maijs;4.00;60.95;48.09
+12.07.2017;1;OH;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.19
+12.06.2017;1;OK;United States;USD;42.00;DISCOUNT15;% off;j?n.30;4.00;39.70;31.18
+12.06.2017;1;TN;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.17
+12.06.2017;1;FL;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.17
+12.06.2017;2;AB;Canada;USD;88.00;"DISCOUNT15;DISCOUNT15";"% off;% off";13.20;4.00;78.80;62.22
+12.06.2017;1;Gloucester;United Kingdom;USD;29.50;DISCOUNT15;% off;apr.43;4.00;29.07;22.78
+12.06.2017;1;CA;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.20
+12.06.2017;1;MD;United States;USD;59.00;DISCOUNT15;% off;aug.85;4.00;54.15;42.62
+12.06.2017;1;;The Netherlands;USD;49.00;DISCOUNT15;% off;j?l.35;4.00;45.65;35.87
+12.05.2017;1;ID;United States;USD;19.50;DISCOUNT15;% off;febr.93;4.00;20.57;15.97
+12.05.2017;1;;United Kingdom;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.13
+12.05.2017;2;Wallis;Switzerland;USD;88.00;"DISCOUNT15;DISCOUNT15";"% off;% off";13.20;4.00;78.80;62.13
+12.05.2017;1;OH;United States;USD;49.00;DISCOUNT15;% off;j?l.35;4.00;45.65;35.89
+12.05.2017;1;NC;United States;USD;39.00;DISCOUNT15;% off;maijs.85;4.00;37.15;29.15
+12.05.2017;1;AB;Canada;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.92
+12.05.2017;1;Salerno;Italy;USD;49.00;DISCOUNT15;% off;j?l.35;0.00;41.65;41.65
+12.05.2017;1;WI;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;33.15
+12.04.2017;1;WA;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.83
+12.04.2017;1;DE;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.84
+12.04.2017;1;CS;Italy;USD;19.50;;;0.00;4.00;23.50;18.24
+12.04.2017;1;MI;United States;USD;19.50;;;0.00;4.00;23.50;18.26
+12.04.2017;1;IL;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.87
+12.04.2017;1;Liège;Belgium;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.90
+12.04.2017;1;MT;United States;USD;49.00;DISCOUNT15;% off;j?l.35;0.00;41.65;32.60
+12.04.2017;1;TX;United States;USD;49.00;DISCOUNT15;% off;j?l.35;0.00;41.65;41.65
+12.03.2017;1;PA;United States;USD;49.00;DISCOUNT15;% off;j?l.35;0.00;41.65;32.58
+12.03.2017;1;CA;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.84
+12.03.2017;1;;Belgium;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.79
+12.03.2017;1;NC;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.79
+12.03.2017;1;West Midlands;United Kingdom;USD;49.00;DISCOUNT15;% off;j?l.35;0.00;41.65;41.65
+12.03.2017;1;NJ;United States;USD;35.00;DISCOUNT15;% off;maijs.25;0.00;29.75;29.75
+12.03.2017;1;N/A;Hong Kong;USD;49.00;DISCOUNT15;% off;j?l.35;0.00;41.65;32.46
+12.03.2017;1;NC;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.79
+12.02.2017;1;TX;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.79
+12.02.2017;1;Essex;United Kingdom;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.79
+12.02.2017;1;NY;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.79
+12.01.2017;1;CA;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;33.15
+12.01.2017;1;TN;United States;USD;39.00;DISCOUNT15;% off;maijs.85;0.00;33.15;25.78
+12.01.2017;1;Cork;Ireland;USD;59.00;DISCOUNT15;% off;aug.85;0.00;50.15;50.15
+12.01.2017;1;TX;United States;USD;49.00;DISCOUNT15;% off;j?l.35;0.00;41.65;32.46
+12.01.2017;1;MN;United States;USD;19.50;;;0.00;4.00;23.50;18.17
